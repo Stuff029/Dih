@@ -1,0 +1,15 @@
+body {
+  font-size: 3em;
+}
+
+#submitButton {
+  font-size: 0.5em;
+}
+
+#resultText {
+  text-align: center;
+}
+
+#buttonsContainer {
+  text-align: center;
+}

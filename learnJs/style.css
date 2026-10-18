@@ -1,0 +1,28 @@
+body {
+  font-size: 2.25em;
+}
+/*
+#countLabel{ induvidual object
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#buttonsContainer { use for a section of the website
+    text-align: center;
+}
+
+.buttons { for classes(refernces each object withi class and applys these properties)
+    padding: 10px 20;
+    font-size: 1.5em;
+    color:rgb(18, 5, 44); 
+    background-color: brown;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color: aqua;
+}*/
